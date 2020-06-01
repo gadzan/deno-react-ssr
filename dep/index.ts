@@ -9,6 +9,3 @@ export {
 
 export { default as React } from "https://dev.jspm.io/react@16.13.1";
 export { default as ReactDOMServer } from "https://dev.jspm.io/react-dom@16.13.1/server";
-
-// import ReactRouter from "https://dev.jspm.io/react-router-dom";
-// export const { StaticRouter, BrowserRouter } = ReactRouter as any
